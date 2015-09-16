@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App4.1.2</string>
+
+    <string name="btName">新規ボタン</string>
+    <string name="chkBold">太字</string>
+    <string name="chkItalic">斜体</string>
+    <string name="rdbRed">赤色</string>
+    <string name="rdbBule">青色</string>
+    <string name="action_settings">Settings</string>
+</resources>
